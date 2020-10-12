@@ -8,7 +8,6 @@ ZPan - Your Last disk on the cloud.
 [![](https://img.shields.io/github/v/release/saltbo/zpan.svg)](https://github.com/saltbo/github.com/saltbo/zpan/releases)
 [![](https://img.shields.io/github/license/saltbo/zpan.svg)](https://github.com/saltbo/github.com/saltbo/zpan/blob/master/LICENSE)
 
-![image](https://user-images.githubusercontent.com/17308208/95768427-e93d8080-0ce8-11eb-9371-8752f2b7c91f.png)
 
 ## Introduction
 ZPan is committed to creating an unlimited speed network disk system, so we use the client to connect directly to cloud storage for design.
